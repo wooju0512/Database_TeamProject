@@ -105,6 +105,11 @@ ing7 varchar(10),
 ing8 varchar(10),
 ing9 varchar(10),
 ing10 varchar(10),
+img1 varchar(100),
+img2 varchar(100),
+img3 varchar(100),
+img4 varchar(100),
+img5 varchar(100),
 time int(11));
 insert into recipe value("떡볶이","tt","1","2","3","4","5","1","2","3","4","5","1","2","3",NULL,NULL,10);
 
