@@ -65,7 +65,7 @@
                     <div class="single-food">
                         <div class="food-img">
                             <a href="./blog-home.php?name=sk">
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFn0aYDHs5oazVGxzITgAZO9Dmbt3XA-GePw&usqp=CAU" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/5def26d6ed6c3a96b85f771a5a3936c01.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -81,7 +81,7 @@
                     <div class="single-food mt-5 mt-sm-0">
                         <div class="food-img">
                             <a href="./blog-home.php?name=cm">
-                                <img src="assets/images/food2.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/a422f7d6d9f627a38ed98632b2023f961.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -97,7 +97,7 @@
                     <div class="single-food mt-5 mt-md-0">
                         <div class="food-img">
                             <a href="./blog-home.php?name=sv">
-                                <img src="assets/images/food3.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/31eb152cd70bec628b70d20211e477661.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -113,7 +113,7 @@
                     <div class="single-food mt-5">
                         <div class="food-img">
                             <a href="./blog-home.php?name=tt">
-                                <img src="assets/images/food4.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/3233d427883d15239f297aeeaf1775531.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -129,7 +129,7 @@
                     <div class="single-food mt-5">
                         <div class="food-img">
                             <a href="./blog-home.php?name=kc">
-                                <img src="assets/images/food5.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/7d9c6ed6f8e9c27776c2d5a834050f731.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -145,7 +145,7 @@
                     <div class="single-food mt-5">
                         <div class="food-img">
                             <a href="./blog-home.php?name=eggt">
-                                <img src="assets/images/food6.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/c599da802f35f12e11a53bbefd4700691.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -219,7 +219,7 @@
                     <div class="single-food">
                         <div class="food-img">
                             <a href="./blog-home.php?name=tt">
-                                <img src="assets/images/update1.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/3233d427883d15239f297aeeaf1775531.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -237,7 +237,7 @@
                     <div class="single-food my-5 my-md-0">
                         <div class="food-img">
                             <a href="./blog-home.php?name=kc">
-                                <img src="assets/images/update2.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/7d9c6ed6f8e9c27776c2d5a834050f731.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
@@ -255,7 +255,7 @@
                     <div class="single-food">
                         <div class="food-img">
                             <a href="./blog-home.php?name=eggt">
-                                <img src="assets/images/update3.jpg" class="img-fluid" alt="">
+                                <img src="https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/c599da802f35f12e11a53bbefd4700691.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="food-content">
