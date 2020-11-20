@@ -29,6 +29,9 @@ $row = mysqli_fetch_array($res);
         *{
             font-family: 'Poor Story', cursive;
         }
+        a{
+            font-family: 'Poor Story', cursive;
+        }
         .active{
             color:#FFB606;
         }
@@ -42,6 +45,9 @@ $row = mysqli_fetch_array($res);
         }
         .owl-dot{
             display:none;
+        }
+        h4{
+            font-family: 'Poor Story', cursive;
         }
         </style>
 </head>
@@ -90,24 +96,53 @@ $row = mysqli_fetch_array($res);
                                     </div>
                                 </div>
                            </div>
-                            <div class="col-md-9">
-                                <div class="blog_post">
-                                <section class="a14">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-lg-12">
-                                                <div class="testimonial-slider owl-carousel">
-                                                <div class="single-slide d-sm-flex">
-                                                        <div class="customer-img mr-4 mb-4 mb-sm-0">
-                                                            <img src="data:image/jpeg;base64,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" alt="">
-                                                        </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                </div>
+                           <div class="col-lg-12">
+                    <div class="testimonial-slider owl-carousel">
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                                <img src="data:image/jpeg;base64,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" alt="">
                             </div>
+                            <div class="customer-text">
+                                <h5>맛있겠다...</h5>
+                                </div>
+                        </div>
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                             </div>
+                            <div class="customer-text">
+                                </div>
+                        </div>
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                                <img src="https://mblogthumb-phinf.pstatic.net/20150225_72/nhs02038_14248440479192F1Ve_PNG/2015-02-25_14%3B59%3B12.PNG?type=w2" alt="">
+                            </div>
+                            <div class="customer-text">
+                                <h5>ㅇㅈ...</h5>
+                                 </div>
+                        </div>
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                             </div>
+                            <div class="customer-text">
+                                </div>
+                        </div>
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48NIL0S6WtCZbB9AmV3N1HQFRyfbSUHaxdQ&usqp=CAU" alt="">
+                            </div>
+                            <h4>fdzz</h4>
+                            <div class="customer-text">
+                                 </div>
+                        </div>
+                        <div class="single-slide d-sm-flex">
+                            <div class="customer-img mr-4 mb-4 mb-sm-0">
+                             </div>
+                            <div class="customer-text">
+                                </div>
+                        </div>
+                        
+                    </div>
+                </div>
                         </article>
 
                         <article class="row blog_item">
@@ -126,7 +161,7 @@ $row = mysqli_fetch_array($res);
                                     ?>
                                     " alt="">
                                     <div class="blog_details">
-                                        <a href="blog-details.html"><h4><?php echo $row['step1'];?></h4></a>
+                                        <a><h4><?php echo $row['step1'];?></h4></a>
                                     </div>
                                 </div>
                             </div>
@@ -150,7 +185,7 @@ $row = mysqli_fetch_array($res);
                                     ?>
                                     " alt="">
                                     <div class="blog_details">
-                                        <a href="blog-details.html"><h4><?php echo $row['step2'];?></h4></a>
+                                        <a><h4><?php echo $row['step2'];?></h4></a>
                                     </div>
                                 </div>
                             </div>
@@ -174,7 +209,7 @@ $row = mysqli_fetch_array($res);
                                     ?>
                                     " alt="">
                                     <div class="blog_details">
-                                        <a href="blog-details.html"><h4><?php echo $row['step3'];?></h4></a>
+                                        <a><h4><?php echo $row['step3'];?></h4></a>
                                     </div>
                                 </div>
                             </div>
@@ -197,7 +232,7 @@ $row = mysqli_fetch_array($res);
                                     ?>
                                     " alt="">
                                     <div class="blog_details">
-                                        <a href="blog-details.html"><h4><?php echo $row['step4'];?></h4></a>
+                                        <a><h4><?php echo $row['step4'];?></h4></a>
                                     </div>
                                 </div>
                             </div>
@@ -220,7 +255,7 @@ $row = mysqli_fetch_array($res);
                                     ?>
                                     " alt="">
                                     <div class="blog_details">
-                                        <a href="blog-details.html"><h4><?php echo $row['step5'];?></h4></a>
+                                        <a><h4><?php echo $row['step5'];?></h4></a>
                                     </div>
                                 </div>
                             </div>
