@@ -5,10 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
     <!-- Page Title -->
     <title>우주의 비밀 레시피</title>
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Poor+Story&display=swap" rel="stylesheet">
@@ -34,9 +32,7 @@
         <div class="spinner"></div>
     </div>
     <!-- Preloader End -->
-
     
-
     <!-- Banner Area Starts -->
     <section class="banner-area text-center">
         <div class="container">
@@ -49,7 +45,6 @@
         </div>
     </section>
     <!-- Banner Area End -->
-
     <!-- Food Area starts -->
     <section class="food-area section-padding">
         <div class="container">
@@ -73,7 +68,6 @@
                                 <h5>스팸 김치볶음밥</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -89,7 +83,6 @@
                                 <h5>치킨마요덮밥</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -105,7 +98,6 @@
                                 <h5>소시지야채볶음</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -121,7 +113,6 @@
                                 <h5>떡볶이</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -137,7 +128,6 @@
                                 <h5>참치김치찌개</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -153,7 +143,6 @@
                                 <h5>에그토스트</h5>
                                 <span class="style-change">시간</span>
                             </div>
-                            <p class="pt-3">Face together given moveth divided form Of Seasons that fruitful.</p>
                         </div>
                     </div>
                 </div>
@@ -161,7 +150,6 @@
         </div>
     </section>
     <!-- Food Area End -->
-
     
     
   
@@ -203,7 +191,6 @@
         </div>
     </section>
     
-
     <!-- 새로운 음식 레시피 -->
     <section class="update-area section-padding">
         <div class="container">
@@ -225,10 +212,8 @@
                         <div class="food-content">
                             <div class="post-admin d-lg-flex mb-3">
                                 <span class="mr-5 d-block mb-2 mb-lg-0"><i class="fa fa-user-o mr-2"></i>Admin</span>
-                                <span><i class="fa fa-calendar-o mr-2"></i>18/09/2018</span>
                             </div>
                             <h5>떡볶이</h5>
-                            <p>nancy boy off his nut so I said chimney pot be James Bond aking cakes he.</p>
                             <a href="./blog-home.php?name=tt" class="template-btn3 mt-2">read more <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -243,10 +228,8 @@
                         <div class="food-content">
                             <div class="post-admin d-lg-flex mb-3">
                                 <span class="mr-5 d-block mb-2 mb-lg-0"><i class="fa fa-user-o mr-2"></i>Admin</span>
-                                <span><i class="fa fa-calendar-o mr-2"></i>20/09/2018</span>
                             </div>
                             <h5>참치김치찌개</h5>
-                            <p>nancy boy off his nut so I said chimney pot be James Bond aking cakes he.</p>
                             <a href="./blog-home.php?name=kc" class="template-btn3 mt-2">read more <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -261,10 +244,8 @@
                         <div class="food-content">
                             <div class="post-admin d-lg-flex mb-3">
                                 <span class="mr-5 d-block mb-2 mb-lg-0"><i class="fa fa-user-o mr-2"></i>Admin</span>
-                                <span><i class="fa fa-calendar-o mr-2"></i>22/09/2018</span>
                             </div>
                             <h5>에그토스트</h5>
-                            <p>nancy boy off his nut so I said chimney pot be James Bond aking cakes he.</p>
                             <a href="./blog-home.php?name=eggt" class="template-btn3 mt-2">read more <span><i class="fa fa-long-arrow-right"></i></span></a>
                         </div>
                     </div>
