@@ -150,3 +150,11 @@ NULL,NULL,
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/73dcb755330ab293e69329cde0d13c831.jpg",
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/0e1b3d7b7507a11dce48bc63b6c21f041.jpg
 ",10);
+
+
+insert into recipe value("소세지야채볶음","sv","케찹 4T, 물엿 1T, 간장 1T, 다진마늘 1/2T를 섞어서 양념장을 만들어 줍니다.","소세지를 칼집이 벌어질 때까지 볶아 줍니다.","양파와 양념장을 넣고 잘 섞어 줍니다.","계속 볶아주다가 양파가 익으면 불을 꺼줍니다","그릇에 담아주면 완성!","비엔나 소세지","양파 1개","케찹 4스푼","물엿 1스푼","간장 1스푼","다진마늘 1/2스푼",NULL,NULL,NULL,NULL,
+"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/42b3f6334b3afd47608287e4177acb371.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/acaa3ecc7e27a505b650e6a70c5d96de1.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/e35b5907dbaf532c3947c7d9924e50181.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/429154a153b0427dfcc03f6a030d52e41.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/f663353229e34bd6236aeda8811d60c41.jpg",10);
