@@ -118,7 +118,19 @@ NULL,NULL,"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/7dadc471546884
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/6be419a5657af84707e57fe1f3e3cf741.jpg",
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/fb1285c8dfc68966308a4688ed82f7b81.jpg",10);
 
-insert into recipe value("스팸 김치치볶음밥","sk","1","1","1","1","1","밥","김치","스팸","달걀 2개","대파 1대","고추장 0.5스푼","간장 1스푼","설탕 1스푼","다진마늘 0.5스푼","후추 적당히","https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/c215d8eeca90f7e0aa30b608b9e4d0661.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/b7fe678e59cc3706a2aa02b1c6d2ad861.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/9e796ab31feb66a7cf67165a6411a3461.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/bc91ea38690848eeda79edcccccc7ef91.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/d3ef058b9fdb79907b873f62daa0702c1.jpg",10);
+insert into recipe value("스팸 김치볶음밥","sk","달군팬에 기름을 두르고 중약불에서 대파랑 다진마늘을 볶아주세요.","스팸을 넣고 살짝 더 볶아주세요.","김치 많이많이 송송 썰어 넣어주세요.","설탕 1숟가락, 간장 1숟가락을 넣어주세요.","고추장 반스푼을 넣고 볶은 뒤, 마지막으로 후춧가루, 참기름 둘러주고 통깨 뿌려주면 완성!","밥","김치","스팸","달걀 2개","대파 1대","고추장 0.5스푼","간장 1스푼","설탕 1스푼","다진마늘 0.5스푼","후추 적당히",
+"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/c215d8eeca90f7e0aa30b608b9e4d0661.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/b7fe678e59cc3706a2aa02b1c6d2ad861.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/9e796ab31feb66a7cf67165a6411a3461.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/bc91ea38690848eeda79edcccccc7ef91.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/d3ef058b9fdb79907b873f62daa0702c1.jpg",10);
+
+insert into recipe value("치킨마요덮밥","cm","양파는 채썰어주시고 파의 흰부분과 초록부분을 나누어 잘게 잘라주세요","팬에 종이호일을 깔고 치킨을 볶듯 구워줍니다","양파 간장소스를 전부 넣고 끓으면 양파를 넣고 수분기가 없어질때까지 볶아주세요.","달걀은 풀어서 스크램블을 만들어줍니다.","밥위에 스크램블, 양파, 치킨, 마요네즈까지 뿌리면 완성!","양파 1개","파 1개","달걀 3개","치킨","마요네즈","물 1컵","간장 4스푼","다진마늘 1스푼","물엿 2스푼","설탕 1스푼",
+"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/d35a137c3ac4d5124f51c87abef34a231.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/7df92af12e0b97315006fd6703ab74da1.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/d380755da51e52617c6a100d25c0c9351.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/6f237ad5bc0d2624bad0b6fd689519161.jpg",
+"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/dc92c5c5aa4db34b9c563999f16217161.jpg",10);
 
 insert into recipe value("참치김치찌개","kc",
 "- 김치 가위로 한입 크기로 썰기, 꽉 짜서 준비하기<br>
