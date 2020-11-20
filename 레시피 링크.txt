@@ -158,3 +158,5 @@ insert into recipe value("소세지야채볶음","sv","케찹 4T, 물엿 1T, 간
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/e35b5907dbaf532c3947c7d9924e50181.jpg",
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/429154a153b0427dfcc03f6a030d52e41.jpg",
 "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/f663353229e34bd6236aeda8811d60c41.jpg",10);
+
+insert into recipe value("에그토스트","eggt","볼에 달걀과 소금을 약간 넣어 잘 풀어요.","예열된 팬에 기름을 두르고 달걀물을 넣어요","달걀이 다 익기 전에 식빵을 올려요..","달걀과 식빵이 붙으면 뒤집어 식빵 사이즈에 맞게 달걀을 올려 접어요.","반을 접어 완성해요.","달걀 2개","소금 약간","식빵 1개","치즈 1장","설탕 반스푼",NULL,NULL,NULL,NULL,NULL,"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/86ce66697e4890a6c47bcc2027e906b41.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/de8fb4af49ca75cd5eda1eccdc1d03ae1.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/74361e798d74c6e55010326a68166a5c1.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/4d289332d1533bc5f523926d74e060351.jpg","https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/553323e6c9b0a43fee2fc9bc8ac9b48a1.jpg",10);
